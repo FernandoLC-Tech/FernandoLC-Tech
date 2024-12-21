@@ -4,7 +4,8 @@
 
 ## Sobre Mim
 
-Sou estudante de Tecnologia da Informação na universidade UNICESUMAR e estou focado em entrar para a área de cibersegurança. Já concluí diversos cursos na área e estou sempre em busca de novos conhecimentos e desafios.
+Sou estudante de Tecnologia da Informação na universidade UNICESUMAR e estou focado em entrar para a área de cibersegurança. 
+Já concluí diversos cursos na área e estou sempre em busca de novos conhecimentos e desafios.
 
 - 🎓 Estudante de TI na **UNICESUMAR**
 - 🔒 Focado em **Cibersegurança**
@@ -16,7 +17,10 @@ Sou estudante de Tecnologia da Informação na universidade UNICESUMAR e estou f
 - 🖥️ Conhecimentos em linguagens de programação: **Python** e **C**
 - 🐧 Uso do **Kali Linux** para cibersegurança
 - 🌐 Idiomas: Português (fluente), Inglês (básico, em estudos) e Espanhol (básico, em estudos)
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fernandolc-tech) 
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fernando-de-lima-cosmo)
+
+  ![Cyber phishing](https://github.com/user-attachments/assets/8862d34e-4c3a-4fbf-bb33-31d732d3fc65)
+
 
 ### Pentest
 - Realização de testes de intrusão em sistemas e redes
@@ -49,6 +53,6 @@ Sou estudante de Tecnologia da Informação na universidade UNICESUMAR e estou f
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandolc-tech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fernando-de-lima-cosmo)
 
 ...
