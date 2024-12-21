@@ -49,6 +49,6 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fernando-de-lima-cosmo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-de-lima-cosmo)
 
 ...
