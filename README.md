@@ -39,8 +39,7 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 ![Estatísticas do GitHub de FernandoLC-Tech](https://github-readme-stats.vercel.app/api?username=FernandoLC-Tech&show_icons=true&theme=radical)
 
 ## Principais Linguagens
-<img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="50" height="50"> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="50" height="50">
+<img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="50" height="50">
 
 ## Atividade Recente
 
