@@ -41,6 +41,8 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 ## Principais Linguagens
 
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLC-Tech&layout=compact&theme=radical)
+![C](https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png) 
+![Python](https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png)
 
 ## Atividade Recente
 
