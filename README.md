@@ -40,7 +40,7 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 
 ## Principais Linguagens
 <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="50" height="50"> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"
+<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="50" height="50">
 
 ## Atividade Recente
 
