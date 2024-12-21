@@ -19,10 +19,6 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 - 🌐 Idiomas: Português (fluente), Inglês (básico, em estudos) e Espanhol (básico, em estudos)
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fernando-de-lima-cosmo)
 
- ![Cyber-News-Rundown_PhishingEmail_800x4001](https://github.com/user-attachments/assets/aeb7d5b5-e815-486d-8134-1dc14cb5fe1c)
-
-
-
 ### Pentest
 - Realização de testes de intrusão em sistemas e redes
 - Identificação e exploração de vulnerabilidades
@@ -36,8 +32,7 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 - Conhecimento em criptografia e métodos de proteção de dados
 - Gestão de riscos e conformidade com normas de segurança
 
-## Testes de Código de Cibersegurança e Pentest
-
+ ![Cyber-News-Rundown_PhishingEmail_800x4001](https://github.com/user-attachments/assets/aeb7d5b5-e815-486d-8134-1dc14cb5fe1c)
 
 ## Estatísticas do GitHub
 
