@@ -19,7 +19,8 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 - 🌐 Idiomas: Português (fluente), Inglês (básico, em estudos) e Espanhol (básico, em estudos)
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/fernando-de-lima-cosmo)
 
-  ![Cyber phishing](https://github.com/user-attachments/assets/8862d34e-4c3a-4fbf-bb33-31d732d3fc65)
+ ![Cyber-News-Rundown_PhishingEmail_800x4001](https://github.com/user-attachments/assets/aeb7d5b5-e815-486d-8134-1dc14cb5fe1c)
+
 
 
 ### Pentest
