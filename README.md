@@ -28,7 +28,7 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 - Uso de ferramentas como **Metasploit**, **Nmap**, **Burp Suite** e **Wireshark**
 - Criação de relatórios detalhados sobre vulnerabilidades e recomendações de mitigação
 
->>>>> Não deixe de ver este projeto, ele demonstra algo impressionante sobre cibersegurança. 
+### Veja este projeto, ele demonstra algo impressionante sobre cibersegurança. 
 Acesse o site do projeto em adamento [aqui](https://fernandolc-tech.github.io/aprendendo-ciberseguran-a/).
 
 ### Segurança da Informação
