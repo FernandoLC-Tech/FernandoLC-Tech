@@ -2,11 +2,7 @@
 # Olá, eu sou o FernandoLC-Tech! 👋
 
 
-
-
-<img src="https://ibb.co/Bnd05dn" alt=" " width="50%">
-
-
+![FernandoLC-Tech-21-12-2024 (1)](https://github.com/user-attachments/assets/fcf3e8a3-62e8-4573-8a3c-bb541ad98032)
 
 
 
