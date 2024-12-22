@@ -1,8 +1,6 @@
-![FernandoLC-Tech-21-12-2024 (1)](https://github.com/user-attachments/assets/c022c987-89ed-4b80-bdd5-b35edffdaab8)
-# Olá, eu sou o FernandoLC-Tech! 👋
-
 ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=FernandoLC-Tech&color=blue)
-
+# Olá, eu sou o FernandoLC-Tech! 👋
+<img src="[URL_DA_IMAGEM](https://ibb.co/Bnd05dn)" alt="Descrição da Imagem" width="50%">
 ## Sobre Mim
 
 Sou estudante de Tecnologia da Informação na universidade UNICESUMAR e estou focado em entrar para a área de cibersegurança. 
@@ -25,6 +23,9 @@ Já concluí diversos cursos na área e estou sempre em busca de novos conhecime
 - Identificação e exploração de vulnerabilidades
 - Uso de ferramentas como **Metasploit**, **Nmap**, **Burp Suite** e **Wireshark**
 - Criação de relatórios detalhados sobre vulnerabilidades e recomendações de mitigação
+
+Este projeto demonstra algo impressionante sobre cibersegurança. 
+Acesse o site do projeto [aqui](https://fernandolc-tech.github.io/aprendendo-ciberseguran-a/).
 
 ### Segurança da Informação
 - Implementação de políticas de segurança
