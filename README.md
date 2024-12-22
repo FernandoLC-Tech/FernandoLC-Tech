@@ -1,3 +1,5 @@
+![FernandoLC-Tech-21-12-2024 (1)](https://github.com/user-attachments/assets/c022c987-89ed-4b80-bdd5-b35edffdaab8)
+
 # Olá, eu sou o FernandoLC-Tech! 👋
 
 ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=FernandoLC-Tech&color=blue)
