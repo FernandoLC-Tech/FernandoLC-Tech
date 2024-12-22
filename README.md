@@ -2,7 +2,7 @@
 # Olá, eu sou o FernandoLC-Tech! 👋
 
 
-<img src="(https://ibb.co/Bnd05dn)" alt="" width="50%">
+<img src="https://ibb.co/Bnd05dn" alt=" " width="50%">
 
 
 
