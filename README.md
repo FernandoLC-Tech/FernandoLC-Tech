@@ -1,8 +1,12 @@
 ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=FernandoLC-Tech&color=blue)
 # Olá, eu sou o FernandoLC-Tech! 👋
-<img src="(https://ibb.co/Bnd05dn)" alt="" width="50%">
-## Sobre Mim
 
+
+<img src="(https://ibb.co/Bnd05dn)" alt="" width="50%">
+
+
+
+## Sobre Mim
 Sou estudante de Tecnologia da Informação na universidade UNICESUMAR e estou focado em entrar para a área de cibersegurança. 
 Já concluí diversos cursos na área e estou sempre em busca de novos conhecimentos e desafios.
 
